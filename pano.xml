@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node65" apprev="17956" appversion="6.1.8">
+  <panorama id="node65">
+    <input leveltilesize="510" height="2976" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976">
+      <level height="2976" preload="0" width="2976" predecode="0"/>
+      <level height="1488" preload="0" width="1488" predecode="0"/>
+      <level height="744" preload="0" width="744" predecode="0"/>
+      <level height="372" preload="1" width="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata tags="MARKA_SHOWROOM_PREVIEW" description="" author="" nodeid="node65" customnodeid="" title="" altitude="0.00" datetime="15.11.2024 11:56" source="" heading="0" copyright="" comment="" latitude="57.740997" longitude="40.980686" info="">
+      <mapcoords y="-1.54633" x_floorplan_percent="51.6921" x="1.06979" mapid="FloorPlan01" y_floorplan_percent="74.867"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" borderalpha="1" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="2.99988" description="" tilt="-1.83" title="DCIM\Camera01\IMG_20241115_115442_00_114.ins" target="" pan="-358.61" id="Point01" skinid="ht_node" url="{node66}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomspeed="2" softedge="0" zoomin="0" blendtime="1" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" hideabout="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" speedwheel="1" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node66">
+    <input leveltilesize="510" height="2976" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node66/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976">
+      <level height="2976" preload="0" width="2976" predecode="0"/>
+      <level height="1488" preload="0" width="1488" predecode="0"/>
+      <level height="744" preload="0" width="744" predecode="0"/>
+      <level height="372" preload="1" width="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-1.74474">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata tags="MARKA_SHOWROOM_PREVIEW" description="" author="" nodeid="node66" customnodeid="" title="DCIM\Camera01\IMG_20241115_115442_00_114.ins" altitude="110.80" datetime="15.11.2024 11:54" source="" heading="-1.74474" copyright="" comment="" latitude="57.740972" longitude="40.980667" info="">
+      <mapcoords y="-1.16867" x_floorplan_percent="50.6967" x="1.04919" mapid="FloorPlan01" y_floorplan_percent="56.5824"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" borderalpha="1" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="2.99988" description="" tilt="-0.65" title="" target="" pan="-181.63" id="Point01" skinid="ht_node" url="{node65}"/>
+      <hotspot description="" tilt="-1.18" title="DCIM\Camera01\IMG_20241115_115404_00_113.ins" target="" pan="-0.64" id="Point02" skinid="ht_node" url="{node67}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomspeed="2" softedge="0" zoomin="0" blendtime="1" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" hideabout="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" speedwheel="1" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node67">
+    <input leveltilesize="510" height="2976" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node67/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976">
+      <level height="2976" preload="0" width="2976" predecode="0"/>
+      <level height="1488" preload="0" width="1488" predecode="0"/>
+      <level height="744" preload="0" width="744" predecode="0"/>
+      <level height="372" preload="1" width="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata tags="MARKA_SHOWROOM_PREVIEW" description="" author="" nodeid="node67" customnodeid="" title="DCIM\Camera01\IMG_20241115_115404_00_113.ins" altitude="110.80" datetime="15.11.2024 11:54" source="" heading="0" copyright="" comment="" latitude="57.740972" longitude="40.980667" info="">
+      <mapcoords y="-0.933838" x_floorplan_percent="50.6304" x="1.04782" mapid="FloorPlan01" y_floorplan_percent="45.2128"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" borderalpha="1" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" tilt="-4.98" title="DCIM\Camera01\IMG_20241115_113606_00_096.ins" target="" pan="-359.24" id="Point01" skinid="ht_node" url="{node68}"/>
+      <hotspot description="" tilt="-0.53" title="DCIM\Camera01\IMG_20241115_115442_00_114.ins" target="" pan="-179.18" id="Point02" skinid="ht_node" url="{node66}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomspeed="2" softedge="0" zoomin="0" blendtime="1" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" hideabout="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" speedwheel="1" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node68">
+    <input leveltilesize="510" height="2976" levelingroll="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node68/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2976">
+      <level height="2976" preload="0" width="2976" predecode="0"/>
+      <level height="1488" preload="0" width="1488" predecode="0"/>
+      <level height="744" preload="0" width="744" predecode="0"/>
+      <level height="372" preload="1" width="372" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-181.007">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="270" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata tags="MARKA_SHOWROOM_PREVIEW" description="" author="" nodeid="node68" customnodeid="" title="DCIM\Camera01\IMG_20241115_113606_00_096.ins" altitude="110.80" datetime="15.11.2024 11:36" source="" heading="-181.007" copyright="" comment="" latitude="57.740972" longitude="40.980667" info="">
+      <mapcoords y="-0.568542" x_floorplan_percent="50.6967" x="1.04919" mapid="FloorPlan01" y_floorplan_percent="27.5266"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" textalpha="1" width="180" borderalpha="1" border="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" tilt="-1.45" title="DCIM\Camera01\IMG_20241115_115404_00_113.ins" target="" pan="-359.75" id="Point01" skinid="ht_node" url="{node67}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomspeed="2" softedge="0" zoomin="0" blendtime="1" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" hideabout="0" sensitivity="8" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" speedwheel="1" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" author="" nodeid="master" customnodeid="" title="" datetime="" source="" heading="0" copyright="" comment="" latitude="" longitude="" info=""/>
+  </masternode>
+  <map zoomlevels="4" transparent="0" height="1504" title="" bgcolor="rgba(29, 29, 29, 1)" tileformat="jpg" floorplannorth="0" id="FloorPlan01" type="file" width="1507"/>
+</tour>
